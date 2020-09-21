@@ -1,0 +1,14 @@
+body {
+	background-color: darkgrey;
+  }
+
+img {
+	width: 150px;
+	position: absolute;
+	top: 150px;
+	left: 150px;
+}
+
+#coin {
+	width: 1.7%; 
+}
